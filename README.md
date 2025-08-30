@@ -1,2 +1,2 @@
 # myrepo
-MY New Reposit0ry
+MY New Repository
